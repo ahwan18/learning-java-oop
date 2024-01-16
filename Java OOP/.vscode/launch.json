@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reference",
+            "request": "launch",
+            "mainClass": "Reference",
+            "projectName": "Java OOP_934ae016"
+        },
+        {
+            "type": "java",
             "name": "Practice1",
             "request": "launch",
             "mainClass": "Practice1",
